@@ -1,0 +1,348 @@
+{
+  "categories": [
+    {
+      "name": "Khobar",
+      "nameAr": "الخبر",
+      "questions": [
+        {
+          "category": "Khobar",
+          "value": 200,
+          "text": "What is the name of the popular beach area in Khobar known for family picnics and swimming?",
+          "answer": "Half Moon Bay",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Half_Moon_Bay_Khobar.jpg"
+        },
+        {
+          "category": "Khobar",
+          "value": 200,
+          "text": "Which major shopping mall in Khobar is a favorite destination for both locals and tourists?",
+          "answer": "Al Rashid Mall"
+        },
+        {
+          "category": "Khobar",
+          "value": 400,
+          "text": "Which famous seaside landmark in Khobar is known for its panoramic views and round tower?",
+          "answer": "Khobar Water Tower",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Alkhobar_Corniche_Tower.jpg"
+        },
+        {
+          "category": "Khobar",
+          "value": 400,
+          "text": "What is the name of the popular waterfront area in Khobar known for its parks and recreational facilities?",
+          "answer": "Khobar Corniche"
+        },
+        {
+          "category": "Khobar",
+          "value": 600,
+          "text": "What major Saudi company has its headquarters in nearby Dhahran and significantly influenced Khobar’s growth?",
+          "answer": "Saudi Aramco"
+        },
+        {
+          "category": "Khobar",
+          "value": 600,
+          "text": "Which international school in Khobar is known for serving the expatriate community?",
+          "answer": "International Programs School (IPS)"
+        }
+      ]
+    },
+    {
+      "name": "Qatif",
+      "nameAr": "القطيف",
+      "questions": [
+        {
+          "category": "Qatif",
+          "value": 200,
+          "text": "What is Qatif historically known for producing?",
+          "answer": "Dates"
+        },
+        {
+          "category": "Qatif",
+          "value": 200,
+          "text": "Which traditional market in Qatif is famous for its local produce and seafood?",
+          "answer": "Souq Al Qatif"
+        },
+        {
+          "category": "Qatif",
+          "value": 400,
+          "text": "What is the name of the fishing port in Qatif that is central to the region’s seafood trade?",
+          "answer": "Qatif Fishing Port",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/3/39/Qatif_Fishing_Port.jpg"
+        },
+        {
+          "category": "Qatif",
+          "value": 400,
+          "text": "Which historic mosque in Qatif is known for its distinctive architecture and cultural significance?",
+          "answer": "Al-Khuwailidiya Mosque"
+        },
+        {
+          "category": "Qatif",
+          "value": 600,
+          "text": "What was the name of the historic castle in Qatif that was demolished in the 1980s?",
+          "answer": "Qatif Castle",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/2/25/Qatif_Castle_old_image.jpg"
+        },
+        {
+          "category": "Qatif",
+          "value": 600,
+          "text": "Which annual cultural festival in Qatif celebrates the region's heritage and traditions?",
+          "answer": "Al-Qatif Festival"
+        }
+      ]
+    },
+    {
+      "name": "Riyadh",
+      "nameAr": "الرياض",
+      "questions": [
+        {
+          "category": "Riyadh",
+          "value": 200,
+          "text": "What is the capital city of Saudi Arabia?",
+          "answer": "Riyadh",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/1/10/Riyadh_Kingdom_Centre_Tower.jpg"
+        },
+        {
+          "category": "Riyadh",
+          "value": 200,
+          "text": "Which iconic tower in Riyadh is known for its distinctive design and sky bridge?",
+          "answer": "Kingdom Centre Tower"
+        },
+        {
+          "category": "Riyadh",
+          "value": 400,
+          "text": "Which historic district in Riyadh is known for its mud-brick architecture and was home to the first Saudi state?",
+          "answer": "Diriyah",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/5/5a/At_Turaif_District_in_Ad_Diriyah.jpg"
+        },
+        {
+          "category": "Riyadh",
+          "value": 400,
+          "text": "What is the name of the large public park in Riyadh that features a lake and various recreational facilities?",
+          "answer": "King Abdullah Park"
+        },
+        {
+          "category": "Riyadh",
+          "value": 600,
+          "text": "What is the name of the modern development in Riyadh intended to be a global financial and business center?",
+          "answer": "King Abdullah Financial District (KAFD)"
+        },
+        {
+          "category": "Riyadh",
+          "value": 600,
+          "text": "Which museum in Riyadh offers insights into Saudi Arabia's history and culture, located within the King Abdulaziz Historical Center?",
+          "answer": "National Museum of Saudi Arabia"
+        }
+      ]
+    },
+    {
+      "name": "Jeddah",
+      "nameAr": "جدة",
+      "questions": [
+        {
+          "category": "Jeddah",
+          "value": 200,
+          "text": "Which coastal city is known as the 'Gateway to Mecca'?",
+          "answer": "Jeddah"
+        },
+        {
+          "category": "Jeddah",
+          "value": 200,
+          "text": "What is the name of the famous fountain in Jeddah that is one of the tallest in the world?",
+          "answer": "King Fahd's Fountain",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/3/3d/King_Fahd%27s_Fountain.jpg"
+        },
+        {
+          "category": "Jeddah",
+          "value": 400,
+          "text": "Which historic district in Jeddah is recognized as a UNESCO World Heritage Site?",
+          "answer": "Al-Balad",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Al-Balad%2C_Jeddah.jpg"
+        },
+        {
+          "category": "Jeddah",
+          "value": 400,
+          "text": "What is the name of the popular seaside promenade in Jeddah known for its sculptures and recreational areas?",
+          "answer": "Jeddah Corniche"
+        },
+        {
+          "category": "Jeddah",
+          "value": 600,
+          "text": "Which museum in Jeddah displays artifacts and art reflecting Saudi Arabian culture?",
+          "answer": "Abdul Raouf Khalil Museum"
+        },
+        {
+          "category": "Jeddah",
+          "value": 600,
+          "text": "What is the name of Jeddah’s airport that serves as a major entry point for pilgrims visiting Mecca?",
+          "answer": "King Abdulaziz International Airport"
+        }
+      ]
+    },
+    {
+      "name": "Dammam",
+      "nameAr": "الدمام",
+      "questions": [
+        {
+          "category": "Dammam",
+          "value": 200,
+          "text": "What is the name of the popular artificial island connected to Dammam by a causeway?",
+          "answer": "Marjan Island"
+        },
+        {
+          "category": "Dammam",
+          "value": 200,
+          "text": "Which corniche in Dammam is known for family outings and food trucks?",
+          "answer": "Dammam Corniche"
+        },
+        {
+          "category": "Dammam",
+          "value": 400,
+          "text": "What is the name of the major airport serving Dammam?",
+          "answer": "King Fahd International Airport"
+        },
+        {
+          "category": "Dammam",
+          "value": 400,
+          "text": "What is the name of the large amusement park located in Dammam?",
+          "answer": "Cobra Amusement Park"
+        },
+        {
+          "category": "Dammam",
+          "value": 600,
+          "text": "What is the name of the main shopping mall in Dammam with a wide range of local and international brands?",
+          "answer": "Othaim Mall"
+        },
+        {
+          "category": "Dammam",
+          "value": 600,
+          "text": "Which nearby industrial city is often associated with Dammam due to its economic importance?",
+          "answer": "Jubail"
+        }
+      ]
+    },
+    {
+      "name": "Mecca",
+      "nameAr": "مكة",
+      "questions": [
+        {
+          "category": "Mecca",
+          "value": 200,
+          "text": "What is the name of the holiest site in Islam located in Mecca?",
+          "answer": "Masjid al-Haram"
+        },
+        {
+          "category": "Mecca",
+          "value": 200,
+          "text": "Which ritual do Muslims perform during Hajj involving walking around the Kaaba?",
+          "answer": "Tawaf"
+        },
+        {
+          "category": "Mecca",
+          "value": 400,
+          "text": "What is the name of the hill where Prophet Muhammad gave his final sermon?",
+          "answer": "Mount Arafat"
+        },
+        {
+          "category": "Mecca",
+          "value": 400,
+          "text": "What is the name of the black stone embedded in the Kaaba?",
+          "answer": "Hajar al-Aswad"
+        },
+        {
+          "category": "Mecca",
+          "value": 600,
+          "text": "What major development near the Haram offers hotels and shopping malls for pilgrims?",
+          "answer": "Abraj Al Bait"
+        },
+        {
+          "category": "Mecca",
+          "value": 600,
+          "text": "What is the name of the valley where Muslims perform symbolic stoning of the devil?",
+          "answer": "Mina"
+        }
+      ]
+    },
+    {
+      "name": "Medina",
+      "nameAr": "المدينة المنورة",
+      "questions": [
+        {
+          "category": "Medina",
+          "value": 200,
+          "text": "Which mosque in Medina is the second holiest site in Islam?",
+          "answer": "Al-Masjid an-Nabawi"
+        },
+        {
+          "category": "Medina",
+          "value": 200,
+          "text": "Who is buried in the Prophet’s Mosque in Medina?",
+          "answer": "Prophet Muhammad (PBUH)"
+        },
+        {
+          "category": "Medina",
+          "value": 400,
+          "text": "What was the old name of Medina before the Hijrah?",
+          "answer": "Yathrib"
+        },
+        {
+          "category": "Medina",
+          "value": 400,
+          "text": "Which important battle took place near Medina in the year 3 AH?",
+          "answer": "Battle of Uhud"
+        },
+        {
+          "category": "Medina",
+          "value": 600,
+          "text": "What is the name of the garden in the Prophet’s Mosque described as a garden from Paradise?",
+          "answer": "Rawdah"
+        },
+        {
+          "category": "Medina",
+          "value": 600,
+          "text": "Which mosque was the first to be built by the Prophet after his migration?",
+          "answer": "Quba Mosque"
+        }
+      ]
+    },
+    {
+      "name": "Saudi Culture",
+      "nameAr": "الثقافة السعودية",
+      "questions": [
+        {
+          "category": "Saudi Culture",
+          "value": 200,
+          "text": "What is the traditional Saudi coffee called?",
+          "answer": "Gahwa"
+        },
+        {
+          "category": "Saudi Culture",
+          "value": 200,
+          "text": "What is the name of the traditional dance performed with swords?",
+          "answer": "Ardah"
+        },
+        {
+          "category": "Saudi Culture",
+          "value": 400,
+          "text": "Which robe is traditionally worn by Saudi men over their thobe?",
+          "answer": "Bisht"
+        },
+        {
+          "category": "Saudi Culture",
+          "value": 400,
+          "text": "What is the red and white checked headscarf worn by Saudi men called?",
+          "answer": "Shemagh"
+        },
+        {
+          "category": "Saudi Culture",
+          "value": 600,
+          "text": "What is the traditional dish made with rice, meat, and spices served on large trays?",
+          "answer": "Kabsa"
+        },
+        {
+          "category": "Saudi Culture",
+          "value": 600,
+          "text": "What is the term for the large social gathering room in traditional Saudi homes?",
+          "answer": "Majlis"
+        }
+      ]
+    }
+  ]
+}
